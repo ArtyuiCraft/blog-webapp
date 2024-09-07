@@ -4,5 +4,5 @@ description: the rocket webapp for my blog
 tags:
   - rust
   - rocket
-  - blgo
+  - blog
 ---
