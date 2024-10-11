@@ -1,1 +1,3 @@
-git stage . && git commit -m "commit" && git push -u origin && cargo run
+git stage . && git commit -m "commit"
+git push -u origin
+cargo run
