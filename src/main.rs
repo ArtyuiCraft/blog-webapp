@@ -3,7 +3,7 @@ extern crate rocket;
 
 #[get("/")]
 fn index() -> &'static str {
-    "my Blog"
+    "my Bloga"
 }
 
 #[launch]
